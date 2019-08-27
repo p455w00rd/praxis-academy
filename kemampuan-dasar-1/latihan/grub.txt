@@ -1,0 +1,4 @@
+- Ubuntu
+- Memory test(memtest86+)
+- Memory test (memtest86+, serial console 115200)
+- Windows 7

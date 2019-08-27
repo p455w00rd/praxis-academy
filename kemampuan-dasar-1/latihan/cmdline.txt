@@ -1,0 +1,133 @@
+perintah 1
+ls -r
+ xdm-setup-x64.tar.xz   snap               node_modules          Documents
+ xdm-setup              Public             Music                 Desktop
+ Videos                 praxis             hs_err_pid13634.log   composer.phar
+'Untitled Document 1'   Pictures           examples.desktop      build
+ Templates              PhpstormProjects   Downloads
+
+
+perintah 2
+ls -a
+ .                    .gphoto               Public
+ ..                   hs_err_pid13634.log   .putty
+ .apport-ignore.xml   .ICEauthority         .rnd
+ .babel.json          .icons                snap
+ .bash_history        .install4j            .ssh
+ .bash_logout         .install4j_jre        .sudo_as_admin_successful
+ .bashrc              .java                 Templates
+ build                .launchpadlib         .themes
+ .cache               .local                .thunderbird
+ composer.phar        .mozilla             'Untitled Document 1'
+ .config              Music                 Videos
+ .dbus                .mysql_history        .vuerc
+ Desktop              node_modules          .wallch
+ Documents            .npm                  .wget-hsts
+ Downloads            .nv                   .xdm
+ .electron            .PhpStorm2018.2       xdm-setup
+ examples.desktop     PhpstormProjects      xdm-setup-x64.tar.xz
+ .gconf               Pictures              .yarn
+ .gitconfig           .pki                  .yEd
+ .gnome               praxis
+ .gnupg               .profile
+
+
+perintah 3
+cat > coba1
+coba1
+
+
+perintah 4
+rm coba1
+kojyou@kojyou-N43SL:~$ ls
+ build           examples.desktop      Pictures   'Untitled Document 1'
+ composer.phar   hs_err_pid13634.log   praxis      Videos
+ Desktop         Music                 Public      xdm-setup
+ Documents       node_modules          snap        xdm-setup-x64.tar.xz
+ Downloads       PhpstormProjects      Templates
+
+
+perintah 5
+mv coba1 coba2
+
+
+perintah 6
+mkdir coba3
+
+
+perintah 7
+history
+ 1991  php artisan serve
+ 1992  ls
+ 1993  cp .env.example .env
+ 1994  php artisan key:generate
+ 1995  composer create-project --prefer-dist laravel/laravel make_auth
+ 1996  ls
+ 1997  cd make_auth/
+ 1998  ls
+ 1999  php artisan serve
+ 2000  cat /boot/grub/grub.cfg
+ 2001  sudo dnf install grub-customizer
+ 2002  sudo apt-get install grub-customizer
+ 2003  sudo apt install grub-customizer
+ 2004  sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+ 2005  sudo apt install grub-customizer
+ 2006  sudo apt-get install wmctrl
+ 2007  wmctrl -m
+ 2008  ls -r
+ 2009  ls -a
+ 2010  cat coba
+ 2011  cat praxis
+ 2012  ls
+ 2013* 
+ 2014  cat > praxis
+ 2015  cd praxis/
+ 2016  cd kemampuan-dasar-1
+ 2017  cat grub.txt
+ 2018  cd ..
+ 2019  ls
+ 2020  cat coba1
+ 2021  cat > coba1
+ 2022  cd coba1
+ 2023  ls
+ 2024  rm coba1
+ 2025  ls
+ 2026  cat > coba1
+ 2027  mv coba1 coba2
+ 2028  mkdir coba3
+ 2029  history
+
+
+
+perintah 8
+clear
+
+
+perintah 9
+pr -3 coba2
+
+2019-08-27 18:03                      coba2                       Page 1
+
+coba
+
+
+Perintah 10
+sudo apt-get update
+[sudo] password for kojyou: 
+Ign:1 http://dl.google.com/linux/chrome/deb stable InRelease
+Hit:2 http://dl.google.com/linux/chrome/deb stable Release                     
+Hit:4 https://dl.yarnpkg.com/debian stable InRelease                           
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]    
+Hit:6 http://ppa.launchpad.net/clipgrab-team/ppa/ubuntu bionic InRelease       
+Hit:7 http://id.archive.ubuntu.com/ubuntu bionic InRelease                     
+Get:9 http://id.archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]   
+Hit:10 http://ppa.launchpad.net/danielrichter2007/grub-customizer/ubuntu bionic InRelease
+Hit:11 http://ppa.launchpad.net/mikhailnov/pulseeffects/ubuntu bionic InRelease
+Hit:12 https://download.sublimetext.com apt/stable/ InRelease                  
+Hit:13 http://ppa.launchpad.net/noobslab/apps/ubuntu bionic InRelease          
+Hit:8 https://packagecloud.io/slacktechnologies/slack/debian jessie InRelease  
+Get:14 http://id.archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 252 kB in 3s (81,6 kB/s)                                 
+Reading package lists... Done
+
+
