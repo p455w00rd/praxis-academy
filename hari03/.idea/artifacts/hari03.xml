@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hari03">
+    <output-path>$PROJECT_DIR$/out/artifacts/hari03</output-path>
+    <root id="archive" name="hari03.jar">
+      <element id="module-output" name="hari03" />
+    </root>
+  </artifact>
+</component>
