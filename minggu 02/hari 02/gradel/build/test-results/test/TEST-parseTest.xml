@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-10T04:03:52" hostname="kojyou-N43SL" time="0.005">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="parseTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
